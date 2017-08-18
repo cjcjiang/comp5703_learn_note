@@ -10,3 +10,4 @@
 15. Group meeting, prepare for the next day's presentation: storyboard, related work, basic model
 16. Do the pre for the tutor
 17. Modern React with Redux lec_42 to lec_51; Configure zhongli server to run the basic api_server
+18. Modern React with Redux lec_52 to lec_56; Users can login to api_server (ver 0.1.1). 
