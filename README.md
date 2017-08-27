@@ -7,9 +7,21 @@
 12. Meeting: learn what to build; have the short term object
 13. Build the api_server, new users can be added into mongoDB
 14. Prepare for next day's group meeting(Actually do nothing)
-15. Group meeting, prepare for the next day's presentation: storyboard, related work, basic model
+15. Group meeting, prepare for the next day's presentation: 
+    storyboard, related work, basic model
 16. Do the pre for the tutor
-17. Modern React with Redux lec_42 to lec_51; Configure zhongli server to run the basic api_server
+17. Modern React with Redux lec_42 to lec_51; 
+    Configure zhongli server to run the basic api_server
 18. Modern React with Redux lec_52 to lec_56; Users can login to api_server (ver 0.1.1)
 19. Modern React with Redux lec_57 to lec_60; 
     The Complete React Native and Redux Course lec_1 to lec_14
+20. Read the blockchain paper to prepare next day's meeting
+21. Have the meeting to determine the whole function;
+    Divide the proposal writing task
+22. Prepare for next day's presentation
+23. Have the presentation
+24. Do nothing
+25. The Complete React Native and Redux Course lec_14 to lec_17
+26. Write my part's proposal
+27. Modern React with Redux lec_61 to lec_63 and lec_115 to lec_120;
+    Docker Mastery lec_1 to lec_9
