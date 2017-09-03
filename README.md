@@ -38,3 +38,5 @@ api_server: move all the code related to database to folder models
 1. Submit the proposal;
 <br>Modern React with Redux lec_121 to lec_131;
 <br>api_server: add login status check for login/logout/signup page
+2. Do nothing
+3. Modern React with Redux lec_132 to lec_143
