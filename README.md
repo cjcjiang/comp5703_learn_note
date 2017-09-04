@@ -40,3 +40,4 @@ api_server: move all the code related to database to folder models
 <br>api_server: add login status check for login/logout/signup page
 2. Do nothing
 3. Modern React with Redux lec_132 to lec_143
+4. Modern React with Redux lec_144 to lec_145
